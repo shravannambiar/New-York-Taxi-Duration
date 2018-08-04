@@ -7,6 +7,6 @@ After executing all the lines of code, 3 files are created
 * final_model.pkl (the final model where testing can be done).
 Since there are 1.4 million data-point ,training such data will take a lot of time, so make sure you take subset of the data.
 <br>
-Also I have deployed this model into production using flask .
+Also I have deployed this model into production using Android and flask .
 <br>
 The Url is :
