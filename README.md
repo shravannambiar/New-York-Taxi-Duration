@@ -9,4 +9,5 @@ Since there are 1.4 million data-point ,training such data will take a lot of ti
 <br>
 Also I have deployed this model into production using Android and flask .
 <br>
-The Url is :
+The Url is : https://github.com/shravannambiar/Deploying-a-machine-learning-model-into-production-using-Android-and-Flask<br>
+
